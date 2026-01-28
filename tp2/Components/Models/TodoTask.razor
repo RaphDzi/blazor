@@ -1,0 +1,20 @@
+﻿<div class="form-check d-flex align-items-center gap-2">
+    <input class="form-check-input" type="checkbox" @bind="Task.IsDone" />
+
+    <label class="form-check-label flex-grow-1 @((Task.IsDone ? "text-decoration-line-through text-muted" : ""))">@Task.Title</label>
+
+    @if (ShowDate)
+    {
+        <small class="text-muted">
+            @Task.CreatedAt.ToString("dd/MM/yyyy HH:mm")
+        </small>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public TodoItem Task { get; set; } = default!;
+
+    [Parameter]
+    public bool ShowDate { get; set; }
+}

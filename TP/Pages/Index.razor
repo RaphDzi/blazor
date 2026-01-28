@@ -1,0 +1,64 @@
+@page "/index"
+
+<PageTitle>Accueil</PageTitle>
+
+<h1>Inscription</h1>
+
+
+<div>
+    <label>Nom :</label>
+    <input type="text" class="form-text" @bind="nom" @bind:event="oninput"/>
+
+    <label>Mail:</label>
+    <input type="email" class="form-text" @bind="email" @bind:event="oninput"/>
+
+    <label>nb participants :</label>
+    <input type="text" class="form-text" @bind="nombreParticipants" @bind:event="oninput" />
+
+    <label>J'accepte les conditions :</label>
+    <input type="checkbox" class="form-text" @bind="accepteConditions" @bind:event="oninput" />
+
+    <label>Option VIP (+50€) :</label>
+    <input type="checkbox" class="form-text" @bind="estVIP" @bind:event="oninput" />
+
+    <button type="submit"></button>
+</div>
+
+
+
+
+@code {
+    private string nom;
+    private string email;
+    private int nombreParticipants;
+    private bool accepteConditions;
+    private bool estVIP;
+    private bool inscriptionConfirmee;
+
+
+
+    private int CalculerTotal(int nombreParticipants, bool estVIP)
+    {
+        
+        if(estVIP){
+            total = total+50;
+        }
+
+        total = nombreParticipants*20;
+        return total;
+    }
+
+    private bool FormulaireValide(string nom, string email, bool accepteConditions)
+    {
+        if(nom.Length >1 && email.Length >1 && accepteConditions)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    private void Inscrire()
+}

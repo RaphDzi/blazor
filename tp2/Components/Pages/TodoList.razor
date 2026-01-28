@@ -1,0 +1,76 @@
+﻿@page "/todolist"
+@using tp2.Components.Models
+
+<h3>📝Ma TodoList</h3>
+
+<div class="input-group mb-3">
+    <input class="form-control"
+           placeholder="Nouvelle tâche..."
+           @bind="NewTaskTitle"
+           @bind:event="oninput" />
+    <button class="btn btn-primary" @onclick="AddTask">
+        ➕ Ajouter
+    </button>
+</div>
+
+<div>
+    <label>📊Total : </label>
+    <label>✅Terminées : </label>
+    <label>⏳Restantes : </label>
+</div>
+
+
+@foreach (var task in Tasks)
+{
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" @bind="task.IsDone" />
+        <label class="form-check-label">
+            @task.Title
+            @if (ShowDates)
+            {
+                <small class="text-muted">
+                    (@task.CreatedAt.ToString("dd/MM/yyyy HH:mm"))
+                </small>
+            }
+        </label>
+    </div>
+}
+
+
+<div>
+    <input type="checkbox" />
+    <label>Afficher les dates</label>
+</div>
+<div>
+    <button>🧹Supprimer les tâches terminées</button>
+</div>
+
+
+@code {
+
+    private List<TodoItem> Tasks = new();
+
+    private string NewTaskTitle = string.Empty;
+    private bool ShowDates = false;
+
+    private int DoneCount => Tasks.Count(t => t.IsDone);
+    private int RemainingCount => Tasks.Count(t => !t.IsDone);
+
+
+    private void AddTask()
+    {
+        if (string.IsNullOrWhiteSpace(NewTaskTitle))
+            return;
+
+        Tasks.Add(new TodoItem{Title = NewTaskTitle});
+
+        NewTaskTitle = string.Empty;
+    }
+
+    private void RemoveCompleted()
+    {
+        Tasks.RemoveAll(t => t.IsDone);
+    }
+
+
+}

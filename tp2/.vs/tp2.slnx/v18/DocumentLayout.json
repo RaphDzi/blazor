@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\tp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F08777B-24EA-498D-864C-B6AC8FA99D8D}|tp2.csproj|c:\\users\\pc fixe raph\\desktop\\2i_academy\\.net\\blazor\\tp2\\components\\pages\\todolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F08777B-24EA-498D-864C-B6AC8FA99D8D}|tp2.csproj|solutionrelative:components\\pages\\todolist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoList.razor",
+              "DocumentMoniker": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\tp2\\Components\\Pages\\TodoList.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\TodoList.razor",
+              "ToolTip": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\tp2\\Components\\Pages\\TodoList.razor",
+              "RelativeToolTip": "Components\\Pages\\TodoList.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T11:17:43.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

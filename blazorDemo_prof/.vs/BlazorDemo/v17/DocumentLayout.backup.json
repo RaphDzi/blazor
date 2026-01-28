@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moham\\Documents\\CDA5_2ITECH\\16 - .Net\\09 - Blazor\\BlazorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC054D39-0659-4E22-9EC1-6944ED3B5A97}|BlazorDemo.Server\\BlazorDemo.Server.csproj|c:\\users\\moham\\documents\\cda5_2itech\\16 - .net\\09 - blazor\\blazordemo\\blazordemo.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC054D39-0659-4E22-9EC1-6944ED3B5A97}|BlazorDemo.Server\\BlazorDemo.Server.csproj|solutionrelative:blazordemo.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC054D39-0659-4E22-9EC1-6944ED3B5A97}|BlazorDemo.Server\\BlazorDemo.Server.csproj|c:\\users\\moham\\documents\\cda5_2itech\\16 - .net\\09 - blazor\\blazordemo\\blazordemo.server\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC054D39-0659-4E22-9EC1-6944ED3B5A97}|BlazorDemo.Server\\BlazorDemo.Server.csproj|solutionrelative:blazordemo.server\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moham\\Documents\\CDA5_2ITECH\\16 - .Net\\09 - Blazor\\BlazorDemo\\BlazorDemo.Server\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorDemo.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Moham\\Documents\\CDA5_2ITECH\\16 - .Net\\09 - Blazor\\BlazorDemo\\BlazorDemo.Server\\Program.cs*",
+              "RelativeToolTip": "BlazorDemo.Server\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:23:57.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "C:\\Users\\Moham\\Documents\\CDA5_2ITECH\\16 - .Net\\09 - Blazor\\BlazorDemo\\BlazorDemo.Server\\Controllers\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "BlazorDemo.Server\\Controllers\\ProduitsController.cs",
+              "ToolTip": "C:\\Users\\Moham\\Documents\\CDA5_2ITECH\\16 - .Net\\09 - Blazor\\BlazorDemo\\BlazorDemo.Server\\Controllers\\ProduitsController.cs",
+              "RelativeToolTip": "BlazorDemo.Server\\Controllers\\ProduitsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:23:38.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
