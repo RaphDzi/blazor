@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5668A500-BF01-45C0-832E-23D7EE2DDA11}|BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\pc fixe raph\\desktop\\2i_academy\\.net\\blazor\\blazordemo_mohamed\\blazordemo.client\\components\\compteurreutilisable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5668A500-BF01-45C0-832E-23D7EE2DDA11}|BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo.client\\components\\compteurreutilisable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5668A500-BF01-45C0-832E-23D7EE2DDA11}|BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\pc fixe raph\\desktop\\2i_academy\\.net\\blazor\\blazordemo_mohamed\\blazordemo.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5668A500-BF01-45C0-832E-23D7EE2DDA11}|BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5668A500-BF01-45C0-832E-23D7EE2DDA11}|BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\pc fixe raph\\desktop\\2i_academy\\.net\\blazor\\blazordemo_mohamed\\blazordemo.client\\components\\carteproduit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5668A500-BF01-45C0-832E-23D7EE2DDA11}|BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo.client\\components\\carteproduit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,46 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CompteurReutilisable.razor",
-              "DocumentMoniker": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\Components\\CompteurReutilisable.razor",
-              "RelativeDocumentMoniker": "BlazorDemo.Client\\Components\\CompteurReutilisable.razor",
-              "ToolTip": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\Components\\CompteurReutilisable.razor",
-              "RelativeToolTip": "BlazorDemo.Client\\Components\\CompteurReutilisable.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T10:06:53.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorDemo.Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorDemo.Client\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T09:37:59.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarteProduit.razor",
-              "DocumentMoniker": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\Components\\CarteProduit.razor",
-              "RelativeDocumentMoniker": "BlazorDemo.Client\\Components\\CarteProduit.razor",
-              "ToolTip": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\Components\\CarteProduit.razor",
-              "RelativeToolTip": "BlazorDemo.Client\\Components\\CarteProduit.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T09:23:30.892Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

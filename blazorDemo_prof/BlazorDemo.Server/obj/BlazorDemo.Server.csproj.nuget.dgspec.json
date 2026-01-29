@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Server\\BlazorDemo.Server.csproj": {}
+    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Server\\BlazorDemo.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {
+    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
+        "projectUniqueName": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
         "projectName": "BlazorDemo.Client",
-        "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
+        "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
         "packagesPath": "C:\\Users\\PC fixe Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\obj\\",
+        "outputPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj"
+              "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Server\\BlazorDemo.Server.csproj": {
+    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Server\\BlazorDemo.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
+        "projectUniqueName": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
         "projectName": "BlazorDemo.Server",
-        "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
+        "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
         "packagesPath": "C:\\Users\\PC fixe Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Server\\obj\\",
+        "outputPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,11 +138,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {
-                "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Client\\BlazorDemo.Client.csproj"
+              "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {
+                "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Client\\BlazorDemo.Client.csproj"
               },
-              "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj"
+              "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
+    "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
         "projectName": "BlazorDemo.Shared",
-        "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+        "projectPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\PC fixe Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\obj\\",
+        "outputPath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

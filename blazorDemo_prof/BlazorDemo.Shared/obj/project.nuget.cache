@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIX0SjB087g=",
+  "dgSpecHash": "CLaCTsspgzI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+  "projectFilePath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC fixe Raph\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

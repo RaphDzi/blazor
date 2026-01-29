@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pS2N69AM26w=",
+  "dgSpecHash": "51dAzfv3KlU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_mohamed\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
+  "projectFilePath": "C:\\Users\\PC fixe Raph\\Desktop\\2i_Academy\\.net\\blazor\\blazorDemo_prof\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC fixe Raph\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\PC fixe Raph\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.23\\microsoft.aspnetcore.authorization.8.0.23.nupkg.sha512",
